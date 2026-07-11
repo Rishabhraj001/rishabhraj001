@@ -156,15 +156,17 @@ CodeChef — In Progress
 
 ---
 
-# Contribution Snake
+<div align="center">
 
-```text
-Configure the GitHub Action from Platane/snk to generate:
-github-contribution-grid-snake-dark.svg
-```
+## 🐍 Contribution Snake
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishabhraj001/rishabhraj001/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishabhraj001/rishabhraj001/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rishabhraj001/rishabhraj001/output/github-contribution-grid-snake.svg">
+</picture>
 
+</div>
 # Current Focus
 
 ```yaml
