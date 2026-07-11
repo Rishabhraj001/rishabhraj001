@@ -1,100 +1,105 @@
 <div align="center">
 
-# 👋 Hey, I'm Rishabh Raj
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Rishabh%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20React%20%2B%20GSAP&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=34&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%2B+GSAP+Specialist;Freelancer;Building+Modern+Web+Experiences;Learning+AI+Everyday" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1200&color=6AD3FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;React+%7C+Node.js+%7C+MongoDB;GSAP+Animation+Specialist;Freelancer;Always+Learning+Something+New"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# ✨ About Me
 
 ```javascript
 const rishabh = {
-    role: "Full Stack Developer",
-    challenge: "250 Days of Code Completed",
-    frontend: ["React", "Tailwind CSS", "GSAP"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB"],
-    currentlyLearning: ["AI", "Advanced React", "Next.js"],
-    hobbies: ["Coding", "Freelancing", "UI Animation"]
+  role: "Full Stack Developer",
+  challenge: "250 Days of Code ✅",
+  location: "India 🇮🇳",
+  currentFocus: [
+    "AI",
+    "React",
+    "GSAP",
+    "Backend Development"
+  ],
+  funFact: "I enjoy turning ideas into smooth, interactive web experiences."
 }
 ```
 
 ---
 
-# 🚀 Tech Stack
+# 🧊 Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,vite,cpp,python,git,github,vercel,netlify,vscode,postman,firebase"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,vite,cpp,python,git,github,vercel,netlify,firebase,vscode,postman"/>
 
-</div>
-
----
-
-# 🌟 Featured Projects
-
-| Project | Tech |
-|----------|------|
-| 🎨 Animated Portfolio | React + GSAP |
-| 🚕 Uber Clone | MERN |
-| 💼 Job Portal | MERN |
-| 🛒 E-Commerce Website | MERN |
-| 🤖 AI Prompt Showcase | React |
+</p>
 
 ---
 
-# 📊 GitHub Statistics
+# 🚀 Featured Projects
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🎨 Animated Portfolio | Modern portfolio with GSAP | React + GSAP |
+| 🚕 Uber Clone | Ride booking application | MERN |
+| 💼 Job Portal | Recruiter & Candidate Portal | MERN |
+| 🛒 E-Commerce | Shopping platform | MERN |
+| 🤖 AI Showcase | AI-powered UI experiments | React |
 
 ---
 
-<div align="center">
+# 📊 GitHub Dashboard
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🏆 Achievements
+# 🐍 Contribution Snake
 
-🏅 250 Days of Code
+<p align="center">
 
-🚀 MERN Stack Developer
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
-✨ React + GSAP Animation Specialist
+</p>
 
-💼 Freelance Web Developer
+---
 
-🤖 AI Enthusiast
+# 🏆 Highlights
+
+- 🚀 Full Stack Developer
+- ✨ React & GSAP Enthusiast
+- 🔥 Completed 250 Days of Code
+- 💼 Freelance Web Developer
+- 🤖 Exploring AI-powered web applications
 
 ---
 
 # 🌐 Connect
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -112,16 +117,6 @@ const rishabh = {
 <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-
 </p>
 
 ---
@@ -130,14 +125,14 @@ const rishabh = {
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
 <br><br>
 
-### ⭐ Thanks for visiting!
+### ⭐ Thanks for stopping by!
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+*"Code. Create. Learn. Repeat."*
 
 </div>
